@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
- void main()
- {
-   cout << "Hello World!" << endl;   
-cout << "Welcome to C++ Programming" << endl;
- }
+
+int main ()
+{
+  cout << "Sveiki Visi";
+  return 0;
+}
